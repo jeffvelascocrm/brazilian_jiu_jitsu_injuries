@@ -1,0 +1,14 @@
+variable,test,p
+Local_Pés,Chi2 (low expected),
+Local_Cabeça,Chi2 (low expected),
+Local_Tornozelo,Chi2,0.7154777210951256
+Local_Cotovelo,Chi2,0.41057894644411086
+Local_Mãos e dedos,Chi2,0.44145199039021144
+Local_Quadril,Chi2 (low expected),
+Local_Ombro,Chi2,0.741377584185281
+Local_Joelho,Chi2,0.22842510593986914
+Tipo_Tendinites ou bursites,Chi2,0.4276413338441635
+Tipo_Luxação,Chi2,0.4341661209008497
+Tipo_Muscular,Chi2,0.06751384821792993
+Tipo_Fratura,Chi2 (low expected),
+Tipo_Entorse,Chi2,0.5532322945857142

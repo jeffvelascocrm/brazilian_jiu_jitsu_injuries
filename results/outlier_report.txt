@@ -1,0 +1,10 @@
+Coluna: Participantes
+Outliers: Nenhum
+Coluna: Idade
+Outliers: Nenhum
+Coluna: Estatura 
+Outliers: Nenhum
+Coluna: Grad.2
+Outliers: Nenhum
+Coluna: Categ. Peso2
+Outliers: Nenhum

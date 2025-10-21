@@ -1,0 +1,348 @@
+variable,value,frequency
+Sexo,Masculino,143
+Sexo,Feminino,44
+MC,80,13
+MC,72,10
+MC,70,8
+MC,90,8
+MC,75,7
+MC,76,7
+MC,100,7
+MC,74,6
+MC,78,5
+MC,88,5
+MC,84,4
+MC,85,4
+MC,62,4
+MC,82,4
+MC,57,4
+MC,95,4
+MC,86,4
+MC,67,4
+MC,71,3
+MC,68,3
+MC,94,3
+MC,56,3
+MC,91,3
+MC,92,3
+MC,63,3
+MC,73,3
+MC,64,3
+MC,93,3
+MC,87,3
+MC,66,3
+MC,110,3
+MC,58,3
+MC,60,3
+MC,98,2
+MC,65,2
+MC,97,2
+MC,53,2
+MC,96,2
+MC,69,2
+MC,112,2
+MC,81,5,2
+MC,104,1
+MC,115,1
+MC,88,2,1
+MC,81,1
+MC,83,1
+MC,43,1
+MC,72,8,1
+MC,52,8,1
+MC,52,1
+MC,77,1
+MC,51,1
+MC,55,1
+MC,61,1
+MC,48,1
+MC,130,1
+MC,63,5,1
+MC,79,1
+MC,89,1
+Anos de JJ,2,17
+Anos de JJ,1,17
+Anos de JJ,8,16
+Anos de JJ,3,15
+Anos de JJ,4,11
+Anos de JJ,5,10
+Anos de JJ,7,9
+Anos de JJ,14,8
+Anos de JJ,6,7
+Anos de JJ,15,7
+Anos de JJ,9,7
+Anos de JJ,10,6
+Anos de JJ,1,5,6
+Anos de JJ,16,5
+Anos de JJ,12,4
+Anos de JJ,1,6,4
+Anos de JJ,20,4
+Anos de JJ,11,3
+Anos de JJ,0,6,2
+Anos de JJ,0,4,2
+Anos de JJ,32,2
+Anos de JJ,13,2
+Anos de JJ,0,9,2
+Anos de JJ,0,5,2
+Anos de JJ,2,5,1
+Anos de JJ,24,1
+Anos de JJ,19,1
+Anos de JJ,0,3,1
+Anos de JJ,17,1
+Anos de JJ,22,1
+Anos de JJ,1,1,1
+Anos de JJ,1,3,1
+Anos de JJ,5,6,1
+Anos de JJ,4,5,1
+Anos de JJ,0,1,1
+Anos de JJ,3,5,1
+Anos de JJ,1,9,1
+Anos de JJ,30,1
+Anos de JJ,26,1
+Anos de JJ,0,1
+Anos de JJ,7,5,1
+Anos de JJ,35,1
+Anos de JJ,25,1
+Grad. no JJ,Azul,49
+Grad. no JJ,Branca,42
+Grad. no JJ,Roxa,40
+Grad. no JJ,Preta,34
+Grad. no JJ,Marrom,22
+Categoria de peso,Até 76 kg,33
+Categoria de peso,Até 88,3 kg,26
+Categoria de peso,Até 82,3 kg,25
+Categoria de peso,Até 70 kg,25
+Categoria de peso,Até 94,3 kg,20
+Categoria de peso,Até 64 kg,20
+Categoria de peso,Até 100,5 kg,12
+Categoria de peso,Até 57,5 kg,12
+Categoria de peso,Sem limite de peso,12
+Categoria de peso,Até 48,5 kg,2
+Outro esporte,Sim,133
+Outro esporte,Não,54
+Qual?,nan,81
+Qual?,Surf,23
+Qual?,Futebol,18
+Qual?,Muay Thai,14
+Qual?,Judô,6
+Qual?,Futebol, Futsal, Surf,6
+Qual?,Voleibol,6
+Qual?,Judô, Muay Thai,5
+Qual?,Futebol, Surf,4
+Qual?,Futebol, Muay Thai,3
+Qual?,Judô, Surf,3
+Qual?,Futebol, Futsal, Muay Thai,2
+Qual?,Futebol, Muay Thai, Surf,2
+Qual?,Muay Thai, Surf,2
+Qual?,Futebol, Voleibol,2
+Qual?,Judô, Voleibol,1
+Qual?,Futebol, Futsal,1
+Qual?,Futsal,1
+Qual?,Futebol, Judô, Muay Thai,1
+Qual?,Futebol, Judô, Surf,1
+Qual?,Futebol, Judô, Muay Thai, Surf,1
+Qual?,Futsal, Muay Thai, Voleibol,1
+Qual?,Futsal, Judô, Voleibol,1
+Qual?,Futebol, Surf, Voleibol,1
+Qual?,Futebol, Futsal, Muay Thai, Surf, Voleibol,1
+Outra atividade física,Sim,133
+Outra atividade física,Não,54
+Se sim, qual?,Musculação,72
+Se sim, qual?,nan,54
+Se sim, qual?,Musculação, Corrida de rua,18
+Se sim, qual?,Corrida de rua,12
+Se sim, qual?,Funcional,9
+Se sim, qual?,Crossfit,5
+Se sim, qual?,Musculação, Funcional,4
+Se sim, qual?,Pilates,4
+Se sim, qual?,Funcional, Corrida de rua,3
+Se sim, qual?,Funcional, Crossfit, Corrida de rua,1
+Se sim, qual?,Crossfit, Corrida de rua,1
+Se sim, qual?,Musculação, Crossfit, Corrida de rua,1
+Se sim, qual?,Funcional, Pilates,1
+Se sim, qual?,Musculação, Funcional, Pilates, Crossfit, Corrida de rua,1
+Se sim, qual?,Funcional, Pilates, Corrida de rua,1
+Compete ou competiu no jiu-jitsu,Sim, competi no passado,78
+Compete ou competiu no jiu-jitsu,Não, nunca competi,75
+Compete ou competiu no jiu-jitsu,Sim, sou competidor atualmente,34
+Nível mais alto,nan,75
+Nível mais alto,Regional,46
+Nível mais alto,Estadual,25
+Nível mais alto,Nacional,21
+Nível mais alto,Internacional,18
+Nível mais alto,Universitário,2
+Treino semanal,3 a 4 vezes,119
+Treino semanal,1 a 2 vezes,38
+Treino semanal,5 ou mais,30
+Duração,45 - 90 min,140
+Duração,> 90 min,43
+Duração,Até 45 min,4
+Lesao,Sim,142
+Lesao,Não,45
+Local,nan,45
+Local,Ombro, Joelho,14
+Local,Joelho,14
+Local,Mãos e dedos,8
+Local,Ombro, Mãos e dedos, Joelho,7
+Local,Ombro,5
+Local,Cotovelo,5
+Local,Quadril,5
+Local,Mãos e dedos, Joelho,4
+Local,Ombro, Mãos e dedos,4
+Local,Quadril, Joelho,4
+Local,Tornozelo,3
+Local,Ombro, Cotovelo, Mãos e dedos, Quadril, Joelho, Tornozelo, Pés,3
+Local,Ombro, Cotovelo, Joelho,3
+Local,Mãos e dedos, Quadril, Joelho,3
+Local,Ombro, Joelho, Tornozelo,3
+Local,Ombro, Tornozelo,3
+Local,Ombro, Quadril,2
+Local,Ombro, Joelho, Pés,2
+Local,Cotovelo, Joelho,2
+Local,Mãos e dedos, Pés,2
+Local,Mãos e dedos, Quadril,2
+Local,Ombro, Cotovelo, Joelho, Tornozelo,2
+Local,Joelho, Pés,2
+Local,Mãos e dedos, Joelho, Pés,2
+Local,Ombro, Mãos e dedos, Quadril,2
+Local,Ombro, Cotovelo, Mãos e dedos, Cabeça, Joelho, Tornozelo, Pés,1
+Local,Pés,1
+Local,Ombro, Cotovelo, Mãos e dedos, Quadril, Joelho,1
+Local,Ombro, Cotovelo, Mãos e dedos, Cabeça, Joelho, Tornozelo,1
+Local,Cotovelo, Quadril, Joelho, Pés,1
+Local,Cotovelo, Tornozelo,1
+Local,Ombro, Cotovelo, Mãos e dedos,1
+Local,Ombro, Cotovelo,1
+Local,Ombro, Mãos e dedos, Joelho, Tornozelo,1
+Local,Cotovelo, Mãos e dedos, Pés,1
+Local,Cabeça,1
+Local,Mãos e dedos, Tornozelo, Pés,1
+Local,Ombro, Mãos e dedos, Tornozelo,1
+Local,Mãos e dedos, Cabeça, Tornozelo, Pés,1
+Local,Ombro, Cotovelo, Mãos e dedos, Joelho,1
+Local,Ombro, Cabeça, Joelho,1
+Local,Mãos e dedos, Joelho, Tornozelo,1
+Local,Ombro, Cotovelo, Mãos e dedos, Pés,1
+Local,Ombro, Mãos e dedos, Pés,1
+Local,Cotovelo, Mãos e dedos,1
+Local,Ombro, Cotovelo, Mãos e dedos, Joelho, Tornozelo, Pés,1
+Local,Ombro, Mãos e dedos, Quadril, Joelho,1
+Local,Cabeça, Quadril, Joelho,1
+Local,Ombro, Mãos e dedos, Cabeça, Joelho, Tornozelo, Pés,1
+Local,Mãos e dedos, Quadril, Joelho, Tornozelo,1
+Local,Cotovelo, Pés,1
+Local,Cotovelo, Mãos e dedos, Quadril,1
+Local,Cotovelo, Mãos e dedos, Joelho,1
+Local,Ombro, Cotovelo, Mãos e dedos, Cabeça, Joelho,1
+Local,Cotovelo, Joelho, Tornozelo,1
+Local,Ombro, Mãos e dedos, Joelho, Pés,1
+Local,Ombro, Mãos e dedos, Tornozelo, Pés,1
+Local,Mãos e dedos, Cabeça, Joelho,1
+Local,Mãos e dedos, Cabeça, Quadril, Pés,1
+Local,Ombro, Cotovelo, Joelho, Tornozelo, Pés,1
+Local,Quadril, Tornozelo, Pés,1
+Local_Outro,nan,150
+Local_Outro,Costela,7
+Local_Outro,Virilha ,2
+Local_Outro,Escápula ,1
+Local_Outro,Costelas ,1
+Local_Outro,Orelha e nariz,1
+Local_Outro,cervical,1
+Local_Outro,Coluna,1
+Local_Outro,Peito,1
+Local_Outro,Costas,1
+Local_Outro,Olhos,1
+Local_Outro,Dedos,1
+Local_Outro,Braço ,1
+Local_Outro,Região lombar,1
+Local_Outro,Costela ,1
+Local_Outro,Pulsos,1
+Local_Outro,Coxa ,1
+Local_Outro,Costela, descolamento de cartilagem,1
+Local_Outro,Rompimento LCA joelho direito,1
+Local_Outro,Cervical,1
+Local_Outro,Posterior de coxa,1
+Local_Outro,costelas,1
+Local_Outro,Estiramento muscular - Panturrilha e triceps,1
+Local_Outro,Costelas,1
+Local_Outro,Coatela,1
+Local_Outro,peito,1
+Local_Outro,Pescoço,1
+Local_Outro,costas,1
+Local_Outro,Costumo ter dores lombares,  nas costas e no pescoço ,1
+Local_Outro,Clavícula,1
+Local_Outro,Coluna ,1
+Tipo,nan,45
+Tipo,Muscular,20
+Tipo,Luxação,16
+Tipo,Entorse,14
+Tipo,Muscular, Luxação,14
+Tipo,Muscular, Tendinites ou bursites,10
+Tipo,Muscular, Luxação, Entorse,9
+Tipo,Fratura,7
+Tipo,Tendinites ou bursites,7
+Tipo,Entorse, Tendinites ou bursites,6
+Tipo,Muscular, Entorse, Tendinites ou bursites,5
+Tipo,Luxação, Entorse,5
+Tipo,Muscular, Entorse,5
+Tipo,Muscular, Luxação, Tendinites ou bursites,4
+Tipo,Muscular, Luxação, Entorse, Tendinites ou bursites,3
+Tipo,Luxação, Entorse, Tendinites ou bursites,2
+Tipo,Muscular, Luxação, Fratura,2
+Tipo,Muscular, Luxação, Fratura, Entorse, Tendinites ou bursites,2
+Tipo,Fratura, Entorse,2
+Tipo,Fratura, Entorse, Tendinites ou bursites,2
+Tipo,Luxação, Tendinites ou bursites,1
+Tipo,Muscular, Luxação, Fratura, Tendinites ou bursites,1
+Tipo,Luxação, Fratura,1
+Tipo,Muscular, Fratura, Entorse, Tendinites ou bursites,1
+Tipo,Muscular, Luxação, Fratura, Entorse,1
+Tipo,Muscular, Fratura, Tendinites ou bursites,1
+Tipo,Luxação, Fratura, Tendinites ou bursites,1
+Tipo_Outro,nan,170
+Tipo_Outro,rompimento da gleno-umeral,1
+Tipo_Outro,Rompimento parcial dos ligamentos,1
+Tipo_Outro,Ligamento do ombro,lombar,1
+Tipo_Outro,Arranhão na córnea ,1
+Tipo_Outro,Articular no joelho,1
+Tipo_Outro,Condreopatia,1
+Tipo_Outro,Rompimento do tendão dedo anelar( ponta do dedo),1
+Tipo_Outro,Rompimento e rompimento parcial do lábio glenoidal nos dois ombros, um parcial outro total - Estiramento de 50%de um músco posterior da coxa,1
+Tipo_Outro,rompimento LCA joelho, ligamento dedos das mãos e ruptura do adutor,1
+Tipo_Outro,Ruptura de tendão ,1
+Tipo_Outro,Hérnia ,1
+Tipo_Outro,Rotura horizontal do menisco colateral medial,1
+Tipo_Outro,Impacto femuroacetabular,1
+Tipo_Outro,Ligamento,1
+Tipo_Outro,deslocamento,1
+Tipo_Outro,Rompimento parcial do liganento do dedo anelar,1
+Tipo_Outro,Rompimento de ligamento,1
+Mecanismos,nan,45
+Mecanismos,Choque com algum colega de treino ou no tatame,43
+Mecanismos,Chave articular,30
+Mecanismos,Chave articular, Lesão por fadiga muscular,18
+Mecanismos,Chave articular, Choque com algum colega de treino ou no tatame,16
+Mecanismos,Lesão por fadiga muscular,13
+Mecanismos,Choque com algum colega de treino ou no tatame, Lesão por fadiga muscular,13
+Mecanismos,Chave articular, Choque com algum colega de treino ou no tatame, Lesão por fadiga muscular,9
+Ambiente,Durante o treino,115
+Ambiente,nan,45
+Ambiente,Nos dois locais,22
+Ambiente,Competição,5
+Afastamento,Sim,127
+Afastamento,nan,45
+Afastamento,Não,15
+Maior tempo,nan,58
+Maior tempo,Mais de 4 semanas ou hospitalização,51
+Maior tempo,2-4 semanas,35
+Maior tempo,Até 2 semanas,33
+Maior tempo,1-2 dias,10
+tratamento auxiliar,nan,45
+tratamento auxiliar,Fisioterapia,41
+tratamento auxiliar,Não, só repouso,31
+tratamento auxiliar,Medicamentoso,30
+tratamento auxiliar,Consulta médica,28
+tratamento auxiliar,Procedimento cirúrgico,12
+retorno,Sintomática,109
+retorno,nan,45
+retorno,Assintomática,33

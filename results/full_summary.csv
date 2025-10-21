@@ -1,0 +1,30 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+Participantes,187.0,,,,94.0,54.12639528609555,1.0,47.5,94.0,140.5,187.0
+Sexo,187,2,Masculino,143,,,,,,,
+Idade,187.0,,,,33.98395721925134,9.44735039138037,19.0,26.0,33.0,41.0,56.0
+Estatura ,186.0,,,,173.05376344086022,8.474273425154387,151.0,167.25,174.0,179.0,192.0
+MC,187,59,80,13,,,,,,,
+Anos de JJ,187,43,2,17,,,,,,,
+Grad. no JJ,187,5,Azul,49,,,,,,,
+Grad.2,187.0,,,,1.5133689839572193,0.5011630427085771,1.0,1.0,2.0,2.0,2.0
+Categoria de peso,187,10,Até 76 kg,33,,,,,,,
+Categ. Peso2,187.0,,,,2.251336898395722,0.8269231926451298,1.0,2.0,2.0,3.0,4.0
+Outro esporte,187,2,Sim,133,,,,,,,
+Qual?,106,24,Surf,23,,,,,,,
+Outra atividade física,187,2,Sim,133,,,,,,,
+"Se sim, qual?",133,14,Musculação,72,,,,,,,
+Compete ou competiu no jiu-jitsu,187,3,"Sim, competi no passado",78,,,,,,,
+Nível mais alto,112,5,Regional,46,,,,,,,
+Treino semanal,187,3,3 a 4 vezes,119,,,,,,,
+Duração,187,3,45 - 90 min,140,,,,,,,
+Lesao,187,2,Sim,142,,,,,,,
+Local,142,61,"Ombro, Joelho",14,,,,,,,
+Local_Outro,37,30,Costela,7,,,,,,,
+Tipo,142,26,Muscular,20,,,,,,,
+Tipo_Outro,17,17,rompimento da gleno-umeral,1,,,,,,,
+Mecanismos,142,7,Choque com algum colega de treino ou no tatame,43,,,,,,,
+Ambiente,142,3,Durante o treino,115,,,,,,,
+Afastamento,142,2,Sim,127,,,,,,,
+Maior tempo,129,4,Mais de 4 semanas ou hospitalização,51,,,,,,,
+tratamento auxiliar,142,5,Fisioterapia,41,,,,,,,
+retorno,142,2,Sintomática,109,,,,,,,
