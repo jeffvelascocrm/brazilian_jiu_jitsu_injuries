@@ -59,10 +59,10 @@ Main Results
     Severity indicators (time away, treatment) are highest in Cluster 1.
 
 Authors & Contact
-    Project lead: Jefferson Velasco and Romulo Sena
-    jeffvelasco.crm@gmail.com
+    Project lead: Jefferson Velasco, Daniele Detanico and Romulo Sena
+    Contact: jeffvelasco.crm@gmail.com
 
-For questions, open an issue or contact via GitHub.
+For questions, open an issue or contact via GitHub or email.
 
 License
 This project is released under the Apache 2.0 License.
