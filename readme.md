@@ -60,6 +60,7 @@ Main Results
 
 Authors & Contact
     Project lead: Jefferson Velasco, Daniele Detanico and Romulo Sena
+    
     Contact: jeffvelasco.crm@gmail.com
 
 For questions, open an issue or contact via GitHub or email.
